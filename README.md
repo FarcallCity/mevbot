@@ -2,7 +2,7 @@
 
 
 
-# MEV-Bot
+# MEV Bot
 
 ***MEV, or Miner Extractable Value, is a term used in the context of blockchain technology and cryptocurrencies that describes the potential profit a miner can extract from certain transactions or actions within the blockchain.***
 
